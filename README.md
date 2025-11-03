@@ -187,6 +187,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 **Daniel Gonzales Arce**
 
 - GitHub: [@danielgonzalesarce](https://github.com/danielgonzalesarce)
+- LinkedIn: [Daniel Alexander Gonzales Arce](https://www.linkedin.com/in/daniel-alexander-gonzales-arce-537576383/)
 
 ## 🙏 Agradecimientos
 

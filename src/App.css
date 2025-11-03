@@ -73,6 +73,15 @@
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15), 0 0 1px rgba(0, 0, 0, 0.1);
 }
 
+/* Estilos para las imágenes de los personajes */
+.card img {
+  border-radius: 12px 12px 0 0;
+}
+
+.card:hover img {
+  transform: scale(1.05);
+}
+
 /* Efecto de borde tipo sable láser azul - más sutil */
 .card::before {
   content: '';
